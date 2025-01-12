@@ -14,8 +14,8 @@ This project leverages Natural Language Processing (NLP) and machine learning to
 ### 1. **Analyze Text**
 Users can directly input product reviews into a text field to analyze sentiment. This option is ideal for quick, single-review evaluations.
 
-![Analyze File Output](images/PostiveReview.png)
-![Analyze URL Output](images/NegativeReview.png)
+![Analyze File Output](SentimentalAnalysi of ProductReviews/images/PostiveReview.png)
+![Analyze URL Output](SentimentalAnalysi of ProductReviews/images/NegativeReview.png)
 
 **Description:**  
 The model processes the input text and classifies it as Positive, Neutral, or Negative, displaying the sentiment result instantly.
