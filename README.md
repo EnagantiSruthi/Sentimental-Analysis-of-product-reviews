@@ -13,7 +13,8 @@ This project leverages Natural Language Processing (NLP) and machine learning to
 
 ### 1. **Analyze Text**
 Users can directly input product reviews into a text field to analyze sentiment. This option is ideal for quick, single-review evaluations.
-####✅ Positive Text:
+
+***✅ Positive Text:***
 
 The input text expresses positive emotions or sentiments.
 Example:
@@ -21,7 +22,7 @@ Example:
 
 ![Positivereview](https://github.com/user-attachments/assets/420197b2-78cf-4a74-8109-1d4923013738)
 
-####❌ Negative Text:
+***❌ Negative Text:***
 
 The input text shows negative emotions or dissatisfaction.
 Example:
@@ -29,8 +30,7 @@ Example:
 
 ![NegativeReview](https://github.com/user-attachments/assets/ee0ecf54-0a18-400e-9bb5-2e847b3f6f44)
 
-
-####⚠️ Invalid Text:
+***⚠️ Invalid Text:***
 
 The input is empty, too short, or doesn’t contain meaningful content for analysis.
 Example:
